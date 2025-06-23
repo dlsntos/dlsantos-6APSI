@@ -54,4 +54,13 @@ input {
     border-radius: 5px;
 }
 
-
+#login-button {
+    font-size: 1.3rem;
+    margin: 20px;
+    width: 50%;
+    padding: 0.6rem;
+    cursor: pointer;
+    background-color: var(--sky-blue);
+    border: none;
+    border-radius: 5px
+}
