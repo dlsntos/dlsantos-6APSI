@@ -70,6 +70,7 @@ input {
 }
 
 a { 
+    align-self: flex-start;
     color: var(--blue);
     text-decoration: none;
     transition-duration: 0.4s;
