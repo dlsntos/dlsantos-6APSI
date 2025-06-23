@@ -13,3 +13,12 @@
     min-height: 100vh;
 }
 
+.img-container {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBkExTWpqYyqvA5QpZobAr5jz0JcnM2nVKN8jKjXlC9riVUhSzebPYiEbf4emnNmXpwA&usqp=CAU);
+    background-size: cover;
+    height: 18rem;
+    width: 20rem;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
