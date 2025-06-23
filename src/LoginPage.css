@@ -64,6 +64,11 @@ input {
     border-radius: 5px;
 }
 
+a { 
+    color: var(--blue);
+    text-decoration: none;
+}
+
 #login-button {
     font-size: 1.3rem;
     margin: 20px;
