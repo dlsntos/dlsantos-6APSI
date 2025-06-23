@@ -13,6 +13,11 @@
     min-height: 100vh;
 }
 
+h1 {
+    align-self: center;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
 .img-container {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBkExTWpqYyqvA5QpZobAr5jz0JcnM2nVKN8jKjXlC9riVUhSzebPYiEbf4emnNmXpwA&usqp=CAU);
     background-size: cover;
