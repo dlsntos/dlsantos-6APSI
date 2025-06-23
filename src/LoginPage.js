@@ -17,7 +17,11 @@ function LoginPage() {
             placeholder="Password"
             required
           />
-          <button >Login</button>
+          <button
+            type='submit' 
+          >
+            Login
+          </button>
         </form>
       </div>
     </div>
