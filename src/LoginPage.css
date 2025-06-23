@@ -44,6 +44,16 @@
     
 }
 
+h1 {
+    align-self: flex-start;
+    margin-left: 2rem;
+}
+
+label {
+    text-align: left;
+    align-self: flex-start;
+}
+
 input {
     background-color: var(--light-grey);
     padding: 10px;
