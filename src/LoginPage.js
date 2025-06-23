@@ -7,7 +7,6 @@ function LoginPage() {
       <div className='login-container'>
         <h1>Welcome</h1>
         <form onSubmit=''>
-          <h2>Login</h2>
           <input
             type="text"
             placeholder="Username"
