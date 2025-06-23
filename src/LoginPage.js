@@ -9,7 +9,7 @@ function LoginPage() {
   return (
     <div className='login-page-wrapper'>
       <div className='login-container'>
-        <h1>Welcome</h1>
+        <h1>Login</h1>
         <form onSubmit=''>
           <label>Email</label>
           <input
