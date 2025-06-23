@@ -22,6 +22,7 @@ function LoginPage() {
           />
           <button
             type='submit' 
+            id="login-button"
           >
             Login
           </button>
