@@ -9,12 +9,12 @@ function LoginPage() {
         type="text"
         placeholder="Username"
        
-      /><br />
+      />
       <input
         type="password"
         placeholder="Password"
      
-      /><br />
+      />
       <button >Login</button>
     </div>
   );
