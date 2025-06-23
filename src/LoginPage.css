@@ -69,6 +69,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: var(--sky-blue);
+}
+
 #login-button {
     font-size: 1.3rem;
     margin: 20px;
@@ -78,4 +82,9 @@ a {
     background-color: var(--sky-blue);
     border: none;
     border-radius: 5px
+}
+
+#login-button:hover {
+    background-color: var(--white);
+    color: var(--blue);
 }
