@@ -7,6 +7,7 @@
 
 .landing-page-container {
     background-image: url(https://marketplace.canva.com/EAF5FxQlSGQ/1/0/1600w/canva-blue-and-white-illustrated-sky-and-airplane-desktop-wallpaper-zYA4XGHAYo0.jpg);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
