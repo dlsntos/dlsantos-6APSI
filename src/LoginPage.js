@@ -20,6 +20,9 @@ function LoginPage() {
             placeholder="Password"
             required
           />
+
+          <a href="" className='forgot-password'>Forgot password</a>
+          
           <button
             type='submit' 
             id="login-button"
