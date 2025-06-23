@@ -7,11 +7,14 @@ function LoginPage() {
       <div className='login-container'>
         <h1>Welcome</h1>
         <form onSubmit=''>
+          <label>Email</label>
           <input
             type="text"
             placeholder="Username"
             required
           />
+
+          <label>Password</label>
           <input
             type="password"
             placeholder="Password"
