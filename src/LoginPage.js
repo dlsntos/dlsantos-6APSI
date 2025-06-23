@@ -3,7 +3,7 @@ import './LoginPage.css';
 function LoginPage() {
  
   return (
-    <div>
+    <div className='login-page-wrapper'>
       <div className='login-container'>
         <form onSubmit=''>
           <h2>Login</h2>
