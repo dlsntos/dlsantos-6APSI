@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 import './LoginPage.css';
+import { useNavigate } from 'react-router-dom';
 function LoginPage() {
- 
+  const navigate = useNavigate();
+  const handleLogin = () => {
+  navigate("/LandingPage");
+  }
   return (
     <div className='login-page-wrapper'>
       <div className='login-container'>
@@ -26,6 +30,7 @@ function LoginPage() {
           <button
             type='submit' 
             id="login-button"
+            onClick={handleLogin}
           >
             Login
           </button>
